@@ -1,0 +1,27 @@
+
+.modal-content
+{
+  margin-top: 100px;
+}
+
+.img_modal
+  {
+    display: inline-block;
+    height: 200;
+    width: 200;
+  }
+.p_modal
+  {
+      margin-top: 10px;
+}
+
+
+.modal-body
+{
+    text-align: center
+}
+#img_s{
+    height: 200px;
+    border-width: 2px;
+    width: 100;
+}
